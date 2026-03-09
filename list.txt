@@ -6,4 +6,11 @@ biscuits
 sweets
 chevda
 cake
-
+sugar
+salt
+cooking oil
+maize flour
+rice
+vegetables
+beans
+meat
