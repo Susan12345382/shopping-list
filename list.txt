@@ -14,3 +14,11 @@ rice
 vegetables
 beans
 meat
+detergent
+mop
+gloves
+washing powder
+pegs
+vim
+harpic
+
